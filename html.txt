@@ -1,1 +1,4 @@
-
+week1 notea 
+html is the strae ture of a webtc html 
+html is mabe up od taggs <head></nead> bsgining end tag tag 
+</daoctype html><html>patent of title thels computch the language <title>josh</title> <body> <hi>hill/hl> <p>mancsouc</p> ishtml tltle title is child of nead </body> <ihtml>
